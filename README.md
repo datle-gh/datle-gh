@@ -39,9 +39,4 @@
   <img height="200" src="https://media.giphy.com/media/tcnNxjjpw2JC8/giphy.gif"  />
 </div>
 
-<h2 align="center">📫 Where to find me</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/dat-le-tien-8555ba27a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
