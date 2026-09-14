@@ -33,4 +33,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/tcnNxjjpw2JC8/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=datle-gh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
 # dat-gh
